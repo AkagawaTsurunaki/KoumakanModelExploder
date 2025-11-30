@@ -1,0 +1,22 @@
+{
+  "name": "com.github.akagawatsurunaki.koumakan-model-exploder",
+  "displayName": "Koumakan Model Exploder",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "One-click exploded-view animation generator for 3D models. ",
+  "keywords": ["exploded", "animation", "model", "exploder", "3D"],
+  "category": "Animation",
+  "author": { "name": "AkagawaTsurunaki", "email": "AkagawaTsurunaki@outlook.com" },
+  "samples": [
+    {
+      "displayName": "Quick Start",
+      "description": "Demo scene showing how to explode a model in 5 s.",
+      "path": "Samples~/AxisLayoutSample"
+    }
+  ],
+  "dependencies": {},
+  "optionalDependencies": {
+    "com.demigiant.dotween": "https://github.com/Demigiant/dotween.git#1.2.7",
+    "com.sirenix.odin-inspector": "https://github.com/sirenix/odin-inspector.git#3.3.1"
+  }
+}
